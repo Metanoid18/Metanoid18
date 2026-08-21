@@ -19,11 +19,11 @@ I design and build modern web experiences using React, Next.js and Tailwind CSS.
 ### Pulse Dashboard
 Modern analytics dashboard with responsive UI.
 
+### Instantbite
+Restaurant UI/frontend design project, designed in Figma and built out.
+
 ### Portfolio Website
 Personal portfolio showcasing my projects and skills.
-
-### Interpals Redesign
-A modern redesign concept for a global social platform.
 
 ## Links
 
