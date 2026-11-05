@@ -1,34 +1,25 @@
 # Tobiloba Odede
 
-Frontend Developer & UI Designer
+**Software Engineering Student | Frontend Developer & UI Designer**
 
-I design and build modern web experiences using React, Next.js and Tailwind CSS.
+I'm a software engineering student interested in building modern web experiences, useful software tools, and creative digital projects. I work with frontend technologies, Python scripting, Windows customization, and Blender.
 
-## Tech Stack
+## Tech Stack & Tools
 
-- HTML
-- CSS
-- JavaScript
-- React
-- Next.js
-- Tailwind CSS
+- HTML, CSS, JavaScript
+- React, Next.js, Tailwind CSS
 - Figma
+- Python
+- Blender
 
-## Featured Projects
+## Projects & Experiments
 
-### Pulse Dashboard
-Modern analytics dashboard with responsive UI.
-
-### Instantbite
-Restaurant UI/frontend design project, designed in Figma and built out.
-
-### Portfolio Website
-Personal portfolio showcasing my projects and skills.
+- **Windhawk Mods:** Custom Windows modifications.
+- **Blender Add-ons:** Tools and workflow enhancements.
+- **Toxilla Foundation:** An ongoing project.
 
 ## Links
 
-Portfolio:
-https://portfolium-metanoid.onrender.com
+**Portfolio:** https://portfolium-metanoid.onrender.com
 
-GitHub:
-https://github.com/Metanoid18
+**GitHub:** https://github.com/Metanoid18
